@@ -1,0 +1,41 @@
+<RCC>
+  <qresource prefix="Font">
+    <file>Fonts/montserrat/MontserratAlternates-Black.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-BlackItalic.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-Bold.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-BoldItalic.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-ExtraBold.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-ExtraBoldItalic.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-ExtraLight.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-ExtraLightItalic.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-Italic.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-Light.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-LightItalic.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-Medium.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-MediumItalic.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-Regular.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-SemiBold.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-SemiBoldItalic.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-Thin.otf</file>
+    <file>Fonts/montserrat/MontserratAlternates-ThinItalic.otf</file>
+    <file>Fonts/montserrat/Montserrat-Black.otf</file>
+    <file>Fonts/montserrat/Montserrat-BlackItalic.otf</file>
+    <file>Fonts/montserrat/Montserrat-Bold.otf</file>
+    <file>Fonts/montserrat/Montserrat-BoldItalic.otf</file>
+    <file>Fonts/montserrat/Montserrat-ExtraBold.otf</file>
+    <file>Fonts/montserrat/Montserrat-ExtraBoldItalic.otf</file>
+    <file>Fonts/montserrat/Montserrat-ExtraLight.otf</file>
+    <file>Fonts/montserrat/Montserrat-ExtraLightItalic.otf</file>
+    <file>Fonts/montserrat/Montserrat-Italic.otf</file>
+    <file>Fonts/montserrat/Montserrat-Light.otf</file>
+    <file>Fonts/montserrat/Montserrat-LightItalic.otf</file>
+    <file>Fonts/montserrat/Montserrat-Medium.otf</file>
+    <file>Fonts/montserrat/Montserrat-MediumItalic.otf</file>
+    <file>Fonts/montserrat/Montserrat-Regular.otf</file>
+    <file>Fonts/montserrat/Montserrat-SemiBold.otf</file>
+    <file>Fonts/montserrat/Montserrat-SemiBoldItalic.otf</file>
+    <file>Fonts/montserrat/Montserrat-Thin.otf</file>
+    <file>Fonts/montserrat/Montserrat-ThinItalic.otf</file>
+    <file>Fonts/montserrat/SIL Open Font License.txt</file>
+  </qresource>
+</RCC>
